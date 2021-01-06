@@ -32,7 +32,7 @@
     vertical-align: middle
 }
 
-.flickerplate ul.flicks > li:nth-child(1){background-image: url(../img./1.jpg);
+.flickerplate ul.flicks > li:nth-child(1){background-image: url(../img/1.jpg);
 background-size: cover}
 .flickerplate ul.flicks > li:nth-child(2){background-image: url(../img/1.png);
 background-size: cover}
